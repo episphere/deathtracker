@@ -1,3 +1,3 @@
 # deathtracker
 
-MOVED TO https://github.com/episphere/deathtracker !
+MOVED TO https://github.com/episphere/mortalitytracker !
