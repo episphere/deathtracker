@@ -1,2 +1,3 @@
 # deathtracker
-original repository moved to mortalitytracker
+
+MOVED TO https://github.com/episphere/deathtracker !
